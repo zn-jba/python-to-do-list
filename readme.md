@@ -2,7 +2,7 @@
 
 ## About
 
-My solution for the [**ToDo Lis**][project] project in the [**Python Core**][track] track on the learning platform [**
+My solution for the [**ToDo List**][project] project in the [**Python Core**][track] track on the learning platform [**
 JetBrains Academy**][platform].
 
 [platform]: https://hyperskill.org/
